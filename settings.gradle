@@ -1,5 +1,5 @@
 include ':appTireSize'
 
 // Import the net.zerobandwidth.android.lib library.
-include ':lib_zbwAndroid'
-project(':lib_zbwAndroid').projectDir = new File(lib_zerobandwidth_android)
+include ':libZeroAndroid'
+project(':libZeroAndroid').projectDir = new File(lib_zerobandwidth_android)

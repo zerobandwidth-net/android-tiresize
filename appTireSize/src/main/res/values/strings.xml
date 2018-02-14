@@ -1,3 +1,7 @@
 <resources>
+
     <string name="app_name">Tire Size Calculator</string>
+
+    <string name="label_miCompare">Compare</string>
+
 </resources>
