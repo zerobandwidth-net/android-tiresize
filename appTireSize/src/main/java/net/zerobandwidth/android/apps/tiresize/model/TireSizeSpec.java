@@ -9,7 +9,7 @@ import java.util.UUID;
 
 /**
  * Contains saved data for a tire size specification.
- * @since 0.0.1 (#1)
+ * @since zerobandwidth-net/android-tiresize 0.0.1 (#1)
  */
 @SQLiteTable("specs")
 public class TireSizeSpec

@@ -10,6 +10,7 @@
         android:id="@+id/chkListItemSelected"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
+        android:gravity="center"
         />
 
     <LinearLayout
@@ -39,5 +40,14 @@
             />
 
     </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/btnDelete"
+        android:layout_height="match_parent"
+        android:layout_width="wrap_content"
+        android:gravity="center"
+        android:src="@drawable/ic_action_delete"
+        android:contentDescription="@string/label_btnDelete"
+        />
 
 </LinearLayout>

@@ -12,7 +12,7 @@ import static org.junit.Assert.assertNotNull;
 
 /**
  * Exercises {@link TireSizeSpec}.
- * @since 0.0.1 (#1)
+ * @since zerobandwidth-net/android-tiresize 0.0.1 (#1)
  */
 @RunWith(JUnit4.class)
 public class TireSizeSpecTest
